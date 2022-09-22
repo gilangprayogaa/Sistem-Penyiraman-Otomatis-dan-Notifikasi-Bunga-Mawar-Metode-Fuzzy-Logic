@@ -15,7 +15,7 @@ TBMessage msg;
 
 const char* ssid = "kiya2306";    //ssid wifi
 const char* pass = "kiya1234";  //password wifi
-String token = "5509168316:AAHR3zchkKtHWa_4nhAmjo2-vrUNq6XJq_c";    //token bot telegram
+String token = "YOUR_TOKEN";    //token bot telegram
 const int id = 1311707317;      //id telegram
 
 //sensor kelembapan tanah
